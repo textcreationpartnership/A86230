@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diurnall of sea designes, which is as strange as true. Relating vvhat great preparations many mighty forraigne princes have now upon the ocean, no man knowing for what intent or purpose. Wherein it may be perceived that the case is pittifull when so many dangers are floating about our ears befor wee can heare of them. Written for a warning, that though feares and jealousies be necessarie; yet it is more necessary to lay them in their right places. Not unprinted betwixt Yorke and Beverley, by W. H.</title>
+            <author>W. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86230</idno>
+            <idno type="STC">Wing H154</idno>
+            <idno type="STC">Thomason E114_35</idno>
+            <idno type="STC">ESTC R22143</idno>
+            <idno type="EEBO-CITATION">99871609</idno>
+            <idno type="PROQUEST">99871609</idno>
+            <idno type="VID">124021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124021)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diurnall of sea designes, which is as strange as true. Relating vvhat great preparations many mighty forraigne princes have now upon the ocean, no man knowing for what intent or purpose. Wherein it may be perceived that the case is pittifull when so many dangers are floating about our ears befor wee can heare of them. Written for a warning, that though feares and jealousies be necessarie; yet it is more necessary to lay them in their right places. Not unprinted betwixt Yorke and Beverley, by W. H.</title>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satiric imitation of a diurnall ridiculing the political conflicts of the time.</note>
+                  <note>Annotation on Thomason copy: "August 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649. --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124021:1" rendition="simple:additions"/>
+            <p>A DIURNALL OF SEA DESIGNES, which is as ſtrange as true.</p>
+            <p>RELATING WHAT great preparations many mighty For<g ref="char:EOLhyphen"/>raigne Princes have now upon the Ocean, no man knowing for what intent or purpoſe.</p>
+            <p>WHEREIN IT MAY be perceived that the caſe is pittifull when ſo many dangers are floating about our ears befor wee can heare of them.</p>
+            <p>WRITTEN FOR A WARNING, that though feares and jealouſies be neceſſarie; yet it is more neceſſary to lay them in their right places.</p>
+            <p>Not unprinted betwixt <hi>Yorke</hi> and <hi>Beverley,</hi> By <hi>W. H.</hi> 
+               <add>August 30<hi rend="sup">th.</hi>
+               </add>
+            </p>
+            <p>LONDON, Printed for <hi>W. S.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124021:2"/>
+            <pb n="1" facs="tcp:124021:2"/>
+            <head>A DIVRNALL OF SEA DESIGNES, which is as ſtrange as true: Rela<g ref="char:EOLhyphen"/>lating what great preparations many migh<g ref="char:EOLhyphen"/>tie Forraign Princes have now upon the Ocean, no man knowing for what intent or purpoſe.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not to be conceited or conceived, that there are great diviſions in <hi>England</hi> at this time, nor can it be imagined that any man that hath wit or ſence, will thinke that there is any ſtrife or contention amongſt us, or that there are two parties in oppoſition (the one well affected, and the other malignant.) All this is not to be thought, and it were well, if it were but to be thought. But the more is the pitty, theſe things are certainly too apparent, and too true, (and therefore they are paſt thinking) though every man that is indu<g ref="char:EOLhyphen"/>ed with Chriſtianity or humanity, cannot but continually have in memory the manifold perturbations and diſtractions that do moleſt the Kings Majeſtie, the Honorable Court of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament; and generally three whole Kingdoms both in Church, State, and Common-wealth. All (or the moſt part)
+<pb n="2" facs="tcp:124021:3"/>of which troubles do proceed from feares and jealouſies of which too many of them are ſuppoſed <hi>Chimeraes,</hi> with very few (or non) realities mingled with them; ſo that the maine of all our diſturbances, is the want of faith and confidence that either Subjects ſhould have in their Soveraigne, or the Soveraigne in his Subjects. And though they ſeeme (and more than ſeeme) to differ, yet they all do agree in every fundamentall Point for which they conteſt.</p>
+            <p>The King proteſts (and will keepe his word) that He will live and dye in the Profeſſion of the true Proteſtant Religion, and for the ſuppreſſion of Popiſh Superſtition; that all former Lawes made ſince the time of King <hi>Edward</hi> the ſixt, and to be made againſt Romiſh Prieſts and Recuſants, ſhall be in full force executed againſt them: All which the Parliament agrees to with a full conſent; ſo all parties are agreed and yet they diſagree.</p>
+            <p>The King proteſts to maintaine the Lawes, Rights &amp; Liber<g ref="char:EOLhyphen"/>ties of His Subjects, with the Priviledges of Parliament. The Subjects and Parliament, and all agree with the King in theſe things; yet for all this they agree not.</p>
+            <p>The King moſt heartily deſires to Rule and Reigne in Piety towards God, and with ſuch Love and Peace amongſt His people, as may be for His Honour, and their moſt ſecurity; and all this the Parliament deſires, and yet they are at di<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>The King is moſt unwilling to have any Warre with His Subjects, and He knowes that ſide which ſo ever winnes, yet He muſt be the loſer; therefore He would not have the bloods or lives of His people loſt or hazarded in any Civil Warre<g ref="char:punc">▪</g> All which the Parliament do moſt humbly pray, and lab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur for; and yet there are Armies raiſed, and mighty preparations for defence of each of them, from the oppoſitions of the other.</p>
+            <p>The King would have diſtreſſed <hi>Ireland</hi> ſpeedily relieved and Reduc'd, and the Rebellious Papiſts conformed or confounded: All which the Parliament do in all humility deſire, and take
+<pb n="3" facs="tcp:124021:3"/>extraordinary care and paine<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to accompliſh; and yet for all this they are at difference.</p>
+            <p>So that though they do agree in all matters, yet (upon the matter) they agree in none. But fears and jealouſies and malig<g ref="char:EOLhyphen"/>nant parties are of each ſide, who do infuſe cauſleſſe diſtruſts be<g ref="char:EOLhyphen"/>twixt them, to the exceſſive charge and molleſtation of all.</p>
+            <p>There are alſo weekly Diurnalls, ſome true, &amp; ſome foyſted, as ſome (of the wiſer ſort) may take this for one; but this is all Sea-buſineſſes which may breed fears and jealouſies and ſug<g ref="char:EOLhyphen"/>geſt dangers, if they be not rightly underſtood, as firſt on</p>
+            <div n="Monday" type="day">
+               <head>Monday.</head>
+               <p>THis day newes was brought to the <hi>Bull</hi> at <hi>Barn<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> in the County of <hi>Weſtmerland.</hi> That a Troope of French Horſe entred, to ſurpriſe the Iſſe of <hi>Wight,</hi> under the command of Mounſire <hi>Shackatroone;</hi> but neere the Iſlands of <hi>Garnſey,</hi> and <hi>Iarſey</hi> they met with a Fleet of Turkiſh Gallyes (in number ſixteene and twenty) and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a ſharpe fight of ſixe houres, the horſes had the better of it, and drave the Gallyes into the Iſland of <hi>Silly,</hi> where they were preſently ſurpriſed by the Na<g ref="char:EOLhyphen"/>tives; their horſes were deperly ſhod with Corke, and as it may be ſuppoſed landed neere to the Town of <hi>Shoteham</hi> in <hi>De<g ref="char:EOLhyphen"/>vonſhire;</hi> what their intents were, is not yet knowne; but yet (to prevent the worſt) it is not amiſſe that we have fears and jea<g ref="char:EOLhyphen"/>louſies of them.</p>
+            </div>
+            <div n="Tuesday" type="day">
+               <head>Tueſday.</head>
+               <p>ABout three of the Clocke in the afternoon, before dinner, there was a ſmall Brigot of 1500 Tun in Burthen, loaden with Letters from the Pirates of <hi>Argetere</hi> to the Pope; it is thought that thoſe Letters do treat of an agreement in Religion between the <hi>Turke</hi> and his <hi>Roman Catholique holineſſe:</hi> And truly they do not much differ upon the maine point, for they are both enclined to thruſt Chriſt out of the Church, and the one
+<pb n="4" facs="tcp:124021:4"/>of them hath entertained <hi>Mahomet,</hi> and as for the other hee hath Sants and Reliques enough of his owne making to patch up ſuch a religion as neither Chriſt nor his Apoſtles ever knew of.</p>
+            </div>
+            <div n="Wednesday" type="day">
+               <head>Wedneſday.</head>
+               <p>ALl this day the winde blew hard, at Northeaſt &amp; by South, and Southweſt and by North, by which meanes Ketches and fiſh eboates had almoſt loſt their Tydes, whereby the Ha<g ref="char:EOLhyphen"/>ven of <hi>Billingſgate</hi> was doubtfull of the Arivall of the fleet, and the whole Citie and ſuburbes in Hazard to have no Oyſters, But the winde ſhifted about Eaſt North-weſt, that by good for<g ref="char:EOLhyphen"/>tune all our feares were ended at twelve pence a peck, &amp; ſo much other good meate as did ſerve for that day.</p>
+            </div>
+            <div n="Thursday" type="day">
+               <head>Thurſeday.</head>
+               <p>IT is Reported that the Queene of the <hi>Sheba,</hi> was upon the Sea with ſixe <hi>Galloones,</hi> 12. <hi>Carrackes</hi> and many ſhippes, Galley Aſſes, and Aſſes Galley, the fleet being in number of great and ſmall, threeſcore and thrteene. The newes was knowne by a ſtrang Accident of a Tempeſt, that happened upon the Coaſt of <hi>Ginny,</hi> where one of the ſhippes being overladed was forced to lighten her of her burthen, by caſting much goods overbord (of great value (amongſt the reſt therewas a heavy trunk which ſunk, and was ſwallowed preſently by a <hi>Grampus,</hi> (which is a young whale.) There then being in the ſaid Trunk a Caſe of <hi>Ethiopians</hi> ſtrong waters; the caſe breaking in the Trunk, made the <hi>Grampus</hi> drunke, ſo that he never left tumbling, reeling and rowling till he ran himſelfe a ground neere a place called <hi>Cliffe</hi> in <hi>Kent,</hi> three miles from <hi>Graveſend,</hi> where the huge fiſh was token at low<g ref="char:EOLhyphen"/>water, and being ripped up the Trunke was found, with the Queenes great Seale in it, and ſome notes that there was 200. Tunnes of Gold in the fleet, beſides other treaſure; It is not yet knowne to what Coaſt ſhe is bound, therefore it is wiſedome to let her alone till we know further, in the meane ſpace the Con<g ref="char:EOLhyphen"/>ſtable
+<pb n="5" facs="tcp:124021:4"/>and Churchwardens of <hi>Claffe</hi> can certifie the whole truth of this matter.</p>
+            </div>
+            <div n="Friday" type="day">
+               <head>Friday.</head>
+               <p>THis Friday two Dunkirks ſhippes would faine have taken ſixe Holland ſhippes, but feare of beeing taken themſelves, they retired into their owne Haven (or den of the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves) by which meanes certaine Barrells of Butter, ſome Holland Cheeſes, and and Pickled Herrings were ſafely brought to <hi>London.</hi>
+               </p>
+            </div>
+            <div n="Saturday" type="day">
+               <head>Saterday.</head>
+               <p>NEws came of 200 ſaile of ſhippes and Arguſeyes, with o<g ref="char:EOLhyphen"/>ther veſſells, were newly Rig'd, victaul'd and man'd in Spaine, and it is Reported that the Spanyards are ſuch kinde people, that they with the reſt of the Romiſh catholiques do wiſh England ſo well that they doe earneſtly deſire to have it All; for which purpoſe they have made a damnable ſtir in <hi>Ireland,</hi> and a mad quoile in England of which there is great hope there will be a happy concluſion, and for the which let us expect and hum<g ref="char:EOLhyphen"/>bly pray to that power of powers, who is the one and only peace<g ref="char:EOLhyphen"/>maker.</p>
+               <p>Nor let any man make a doubt of this forementioned diurnall, for it will be proved upon the Oathes of as honeſt men as either the Writer or Reader is, that all herein is as true as ſome 20 of the Penny Pamphletts that are daily bought and ſold in the ſtreets by the new Ragged Regiment of <hi>Tatterdemalian</hi> Booke<g ref="char:EOLhyphen"/>ſellers.</p>
+               <p>There is newes brought alſo, ſince this Diurnall was printed, that ſome fiſhing Sailers, or Marriners, did moſt felloniouſly ſteale all ſuch Ropes out of the Kings ſhippes as are called Sprtt<g ref="char:EOLhyphen"/>ſaile <hi>Bolemis,</hi> to the great preiudice of their being ſteared right, for many doe feare that the ſaid ſhippes will hardly fetch their Helmes as they ſhould doe. But the Theeves were taken, and after great examination they were found guilty and becauſe ſome
+<pb n="6" facs="tcp:124021:5"/>of them were married men. Batchellers, and ſome Appentiſes, they were adjudged to three ſeverall puniſhments, the married men were Doomed, to be at their wives diſpoſing, and be allow<g ref="char:EOLhyphen"/>ed every meale (at home) a meſſe of Moundring broth ſealding hot; and they ſhould never, have meate, drinke, or cloathes without love, credit, or Ready money. The Batchellers were ſenſured to have each of their heads placed betweene a paire of Eares, and the Apprentiſes were never to be ſeene or looke upon, but under the eye-browes.</p>
+               <p>I know it is a dangerous matter to ſpeake wiſely, and there<g ref="char:EOLhyphen"/>fore, for mine owne ſafety, I will write this Diurnall to ſuch as are troubld with the ſimples; It is a deare yeare of witt: But Abuſes are exceeding plentifull, as God knowes. And the King, Parliament, Church, State and poore Commons, have all joy <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly and ſeverally ſo much woefull experience.</p>
+               <p>The Reader may expect more newes the next Dyurnall, if Letters be not Intercepted.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
